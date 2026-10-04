@@ -7,10 +7,10 @@ This project was completed for my BAIS coursework at the University of Iowa. The
 The README gives an overview of what the project includes and how someone can run the program.
 
 <ins>**Tools and Programs**</ins>\
-The main tools used for this project are:
--Python\
--Visual Studio Code\
--GitHub\
+The main tools used for this project are:\
+*Python\
+*Visual Studio Code\
+*GitHub\
 Git\
 Markdown\
 Project Files\
