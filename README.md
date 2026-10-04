@@ -47,4 +47,4 @@ Technical documentation
 Elijah Laurenzo\
 University of Iowa\
 Tippie College of Business\
-Business Analytics & Information Systems and Marketing\
+Business Analytics & Information Systems and Marketing
