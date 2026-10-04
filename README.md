@@ -35,7 +35,7 @@ Replace filename.py with the actual name of the Python file.
 <ins>**What I Learned**</ins>\
 This project gave me more practice using GitHub and organizing programming files in one place. It also helped me learn how to document a project so that someone else can understand what the files are for and how to use them.
 
-Skills used in this project include:\
+Skills used in this project include:
 + Python programming
 + File organization
 + GitHub repositories
