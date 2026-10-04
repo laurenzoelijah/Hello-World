@@ -41,7 +41,7 @@ File organization\
 GitHub repositories\
 Markdown formatting\
 Version control\
-Technical documentation\
+Technical documentation
 
 <ins>**About Me**</ins>\
 Elijah Laurenzo\
