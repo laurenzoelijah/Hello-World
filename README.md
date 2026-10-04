@@ -8,9 +8,9 @@ The README gives an overview of what the project includes and how someone can ru
 
 <ins>**Tools and Programs**</ins>\
 The main tools used for this project are:
-Python\
-Visual Studio Code\
-GitHub\
+-Python\
+-Visual Studio Code\
+-GitHub\
 Git\
 Markdown\
 Project Files\
