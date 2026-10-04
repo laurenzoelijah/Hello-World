@@ -8,12 +8,12 @@ The README gives an overview of what the project includes and how someone can ru
 
 <ins>**Tools and Programs**</ins>\
 The main tools used for this project are:
-Python
-Visual Studio Code
-GitHub
-Git
-Markdown
-Project Files
+Python\
+Visual Studio Code\
+GitHub\
+Git\
+Markdown\
+Project Files\
 The repository includes the files needed for the project.
 
 Main files include:\
@@ -36,15 +36,15 @@ Replace filename.py with the actual name of the Python file.
 This project gave me more practice using GitHub and organizing programming files in one place. It also helped me learn how to document a project so that someone else can understand what the files are for and how to use them.
 
 Skills used in this project include:\
-Python programming
-File organization
-GitHub repositories
-Markdown formatting
-Version control
-Technical documentation
+Python programming\
+File organization\
+GitHub repositories\
+Markdown formatting\
+Version control\
+Technical documentation\
 
 <ins>**About Me**</ins>\
-Elijah Laurenzo
-University of Iowa
-Tippie College of Business
-Business Analytics & Information Systems and Marketing
+Elijah Laurenzo\
+University of Iowa\
+Tippie College of Business\
+Business Analytics & Information Systems and Marketing\
