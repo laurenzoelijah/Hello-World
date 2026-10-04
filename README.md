@@ -14,6 +14,7 @@ The main tools used for this project are:
 + Markdown
 + Project Files
 + The repository includes the files needed for the project.
++ URL links to files - example here: 
 
 Main files include:\
 README.md - Explains the project and how it works
@@ -47,3 +48,4 @@ Elijah Laurenzo\
 University of Iowa\
 Tippie College of Business\
 Business Analytics & Information Systems and Marketing
+:grin:,
