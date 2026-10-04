@@ -48,4 +48,4 @@ Elijah Laurenzo\
 University of Iowa\
 Tippie College of Business\
 Business Analytics & Information Systems and Marketing\
-:EMOJICODE:grin:,
+:grin:,
