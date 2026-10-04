@@ -47,5 +47,5 @@ Skills used in this project include:
 Elijah Laurenzo\
 University of Iowa\
 Tippie College of Business\
-Business Analytics & Information Systems and Marketing
-:EMOJICODE::grin:,
+Business Analytics & Information Systems and Marketing\
+:EMOJICODE:grin:,
